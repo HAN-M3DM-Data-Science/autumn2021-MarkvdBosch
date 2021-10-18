@@ -1,6 +1,6 @@
 ---
 title: "Assigment - Data Driven Decision Making"
-author: name author here
+author: Mark van den Bosch
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -10,21 +10,30 @@ output:
 
 Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
 
-<---- Watch this video if you don't know how to embed video's ---->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<---- Replace this video with your business case example ---->
+<<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kWRDp6fAXec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
 
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+3DM plays a big role for Bol. The ability to respond quickly to changing consumer habits has always been crucial to retail. Online, this is even more true, as shoppers will quickly look elsewhere if they don't have exactly what they want at the time they want something.
+3DM provides fast, accurate data insights for key aspects such as buying habits and seasonal trends. This allows Bol to quickly adjust their market and product offerings so that customers can easily find what they need. With 3DM, they also have greater control over their business operations, such as inventory management, assortment quality and stock levels. This has allowed them to improve customer service while reducing their environmental impact.
+
+
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+They use data in many different places such as the search engine and recommender system, forecasting of sales and customer service and their chatbot. 
+The organisation also uses their data in Tableau to create an internal dashboard that gives them insight on opportunities and trends. 
+
+
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Their vision is to become an 100% fact-based company and use only data analytics for their decision making. This is not possible without the use of 3DM. 
+With the addition of 3DM to their business they were able to solve their biggest challenges. For example:
+The lack of a common problem solving approach;
+Difficulty setting priorities;
+Business plans driven by an insufficient amount of facts;
+Varying quality of data driven communication:
+
+
