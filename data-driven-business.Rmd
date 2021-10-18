@@ -1,5 +1,5 @@
 ---
-title: "Assigment - Data Driven Business"
+title: "Assigment - Data Driven Business" By Mark van den Bosch
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -7,19 +7,43 @@ output:
     toc_depth: 2
 ---
 
-Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
+Search for suitable business case examples on data driven business. Copy the embed code below.
 
-<---- Embed code here ---->
+<https://www.edq.com/resources/tip-sheets/5-signs-youre-a-mature-data-driven-organization/ https://hbr.org/2020/02/10-steps-to-creating-a-data-driven-culture/ https://blog.nucleusanalytics.com/how-to-create-a-data-culture>
 
 
 ## What features define a data driven business?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Being a matured data driven organization is a great competitive edge against the competitors. More and more customers ask businesses for their information and incomplete information becomes a problem. But when is a business matured in being data driven. There are many aspects that define whether a business is matured or not. The most crucial aspects are listed down here.
+-	Specialized data roles and a data commander
+-	Focus on enabling wider data usage
+-	Invested in multiple data management projects
+-	Seeing data management as continuous processes
+-	Invested in data quality
+All mature data organizations have in common that they have an array of data practitioners led by a chief data officer. They build a culture that embraces data to drive business further and have continues innovation. Placing a data expert into a chief position brings the business to have a better focus on data and improve the innovation, operational efficiency and leveraging data.
+Realising as a business that data needs to be used and collected across the entirety of the company creates a focus on standardizing data across departments and increases the ability to understand and harness the power of data and analytics.
+For a business to become data driven it has to invest in multiple data management initiatives, so having data initiatives or investing into them gets the business closer to using that technology to among others improve operational efficiency and financial forecasting.
+Data management should not be operating within siloed pockets of the business. Siloed data becomes inaccurate, duplicated and incomplete. By cleaning the data regularly it will prevent bad information from entering the system and will eventually lead to revenue generation and or a better customer experience through accurate data. 
+Keeping the data clean and of a high quality requires time and resources. This is either done manually with data clean-up or with a data quality management platform to find and solve data issues. 
+When all five of the aspects above are noticeable the business is a mature data driven business and will benefit from all the advantages. 
+
+
 
 ## What are the important features of a data culture?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+For a business to have a data culture its important it starts at the top. Businesses that have strong data driven cultures have managers in the top who set the expectation that decisions must be anchored in data. Leading through example makes the data culture the new normal instead of a novelty or exception.
+It’s important that the data practitioners are not operating separately from the rest of the business. A successful data culture solves this issue by not only getting the data practitioners more involved with the business but also the other way around. Being able to understand each other and work in harmony is key to a successful data culture. 
+Not having access to understandable and accurate data across the business is one of the most common issues that hinders the data culture. All employees and in some cases even customers should easily be able to find data for their reporting and informational needs. To improve the accessibility reporting on the data should be done not only to help customers but also for employees. For these employees to become more connected and better understand the data they should be offered specialized training. 
+Lastly for most analytical problems there is more then one solution. In a business with a data culture the solution is not only given but also supported, the team would be asked for example: what alternatives they considered, what they understood the trade-offs to be and why they chose one approach over another. Doing this gives a deeper understanding to the used and unused approaches, stimulates critical thinking and reduces the amount of assumptions made. 
+
+
 
 ## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+
+To become a mature data driven business it is important to start with the development of a plan. Investing and focusing on the points mentioned above are also crucial and should be mentioned in the plan. 
+The plan consists of creating and selecting a strategy, business intelligence tools, data collection system, processes to support the new culture and evaluating resources to support it all.
+Once the plan is created and thought through data can be adopted into the existing processes. Hereby the team working with the processes need to be educated on the changes and a data analytics tool need to be chosen and implemented.
+This gets repeated for all the new and old processes organization wide to keep improving the professional development and skillsets of the employees and to improve the effectiveness of the process. 
+After all the small chances and when the employees get familiar and comfortable with the data and new processes the business will transition from data as commonplace at an operational level to embedding it into their way of thinking. With the matured data driven business it gains clarity of organizational purpose, single source of truth, more power to the employees and customers and many more benefits.
+
 
