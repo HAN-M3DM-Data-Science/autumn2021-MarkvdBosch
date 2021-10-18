@@ -9,7 +9,7 @@ output:
 
 Search for suitable business case examples on data driven business. Copy the embed code below.
 
-<https://www.edq.com/resources/tip-sheets/5-signs-youre-a-mature-data-driven-organization/ https://hbr.org/2020/02/10-steps-to-creating-a-data-driven-culture/ https://blog.nucleusanalytics.com/how-to-create-a-data-culture>
+<https://www.youtube.com/watch?v=zT7BIexe1GI>
 
 
 ## What features define a data driven business?
@@ -47,3 +47,7 @@ This gets repeated for all the new and old processes organization wide to keep i
 After all the small chances and when the employees get familiar and comfortable with the data and new processes the business will transition from data as commonplace at an operational level to embedding it into their way of thinking. With the matured data driven business it gains clarity of organizational purpose, single source of truth, more power to the employees and customers and many more benefits.
 
 
+references
+https://www.edq.com/resources/tip-sheets/5-signs-youre-a-mature-data-driven-organization
+https://hbr.org/2020/02/10-steps-to-creating-a-data-driven-culture
+https://blog.nucleusanalytics.com/how-to-create-a-data-culture
