@@ -1,6 +1,6 @@
 ---
 title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+author: Mark van den Bosch
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -10,17 +10,21 @@ output:
 
 Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
 
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=NJILZLehnuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
 
 
 ## What was the business problem?
+A local small butcher shop wanted to understand what marketing messages would be best suited to attract customers and they wanted to understand their conversion ratio, how many people walk past the shop, stop to look at the window and walk into the shop.
+Solving these two problems will give them the possibility to better adept their company to the wishes of the customer and ultimately increase their profit.
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
 
 ## How was it translated into a data mining problem?
+The first thing they did was look for a way to collect the required data, since their existing data could not provide the answers to the problems. The company realised they needed more data diversity. So they started looking at external data sources instead of their internal data sources. To find out how many people walk by the shop, stand still at the window and go into the shop they installed a device that picks up mobile phone signals. These signals were counted by the device and data was being collected on the behaviour of the (potential) customers.
+To further improve they started collecting weather data to help them predict how much inventory they need depending on the likelihood of sunshine and barbecues. 
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
 
 ## What is the realized business value?
+Due to this device they have gotten a more accurate understanding of their customer footfall and conversion ratio. Which allowed them to experiment with new marketing messages. After an experiment they could see if the ratio and footfall was increasing of decreasing. This lead them to a specific marketing strategy that worked the best for their customers. 
+What they didn’t expect to see was a big increase in footfall around 11 o’clock in the evening and after seeing the data realised that due to the pups on the same street they had a lot of potential customers walking past the shop after closing. To utilize this potential they opened their shop an extra hour in the evening and searched for food trends to sell specifically to those people in a small pop-up store in front of their butcher shop. This was a huge success for them and now 50% of their profit is coming from this one hour at night. 
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
